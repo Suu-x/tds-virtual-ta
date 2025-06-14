@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+openai
+langchain
+faiss-cpu
+tiktoken
+beautifulsoup4
+requests
+pytesseract
+Pillow
+python-multipart

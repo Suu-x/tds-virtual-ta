@@ -1,0 +1,9 @@
+providers:
+  - id: api
+    config:
+      url: https://your-app-url.onrender.com/
+
+prompts:
+  - vars:
+      question: "Should I use gpt-4o-mini or gpt-3.5-turbo?"
+      image: null
