@@ -1,7 +1,8 @@
 fastapi
 uvicorn
 sentence-transformers
-torch
 bs4
 requests
 pydantic
+openai
+langchain
