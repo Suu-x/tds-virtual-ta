@@ -1,0 +1,27 @@
+[
+  {
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/what-is-variance/1010",
+    "title": "What is Variance?",
+    "content": "Variance measures how far a set of numbers are spread out from their average value. It is calculated by taking the average of squared deviations from the mean. Higher variance indicates that the data points are more spread out."
+  },
+  {
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/outliers-in-boxplot/1020",
+    "title": "How are outliers handled in a boxplot?",
+    "content": "Boxplots identify outliers using the interquartile range (IQR). Any data point more than 1.5 times the IQR above the third quartile or below the first quartile is considered an outlier and is marked with a dot or star."
+  },
+  {
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/data-cleaning-techniques/1030",
+    "title": "What are some common data cleaning techniques?",
+    "content": "Common data cleaning techniques include handling missing values, removing duplicates, fixing data types, correcting inconsistent formatting, and identifying outliers. This ensures the quality and usability of datasets."
+  },
+  {
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/difference-between-mean-and-median/1040",
+    "title": "When to use median instead of mean?",
+    "content": "The median is preferred over the mean when the data has outliers or is skewed. Unlike the mean, the median is not affected by extreme values, making it a better measure of central tendency in such cases."
+  },
+  {
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/importance-of-data-visualization/1050",
+    "title": "Why is data visualization important?",
+    "content": "Data visualization helps to communicate data insights effectively. It makes patterns, trends, and outliers easier to understand using visual formats like charts, graphs, and plots. It supports decision-making and storytelling with data."
+  }
+]
