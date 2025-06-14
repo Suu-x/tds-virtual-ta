@@ -1,11 +1,7 @@
 fastapi
 uvicorn
-openai
-langchain
-faiss-cpu
-tiktoken
-beautifulsoup4
+sentence-transformers
+torch
+bs4
 requests
-pytesseract
-Pillow
-python-multipart
+pydantic
